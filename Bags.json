@@ -22,7 +22,7 @@
         
         },        
         {
-            "ClassName": "TF_JPCMaTF_AVSBag_Coyoteg3Pouch_Coyote",
+            "ClassName": "TF_AVSBag_Coyote",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
             "MaxStockThreshold": 100,
