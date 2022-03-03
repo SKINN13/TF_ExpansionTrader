@@ -1,0 +1,129 @@
+{
+    "m_Version": 8,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_SCAR_Mk20Bttstck_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_SCAR_Mk20Bttstck_FDE",
+                "TF_SCAR_Mk20Bttstck_Shd"
+            ]
+        },
+
+        {
+            "ClassName": "TF_SCAR_StndBttstck_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_SCAR_StndBttstck_FDE"
+            ]
+        },
+        {
+            "ClassName": "TF_SCAR_VadapterBttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+
+        {
+            "ClassName": "TF_AK_AdapterBttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }, 
+        
+        {
+            "ClassName": "TF_AK_MVRIBttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+
+        {
+            "ClassName": "TF_AK_Zenit_PT1Bttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_AN94_AdapterBttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+
+        {
+            "ClassName": "TF_AN94_PlasticBttstck",
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        {
+            "ClassName": "TF_M4_ADARBttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_M4_CMMG_RIPBttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+
+        {
+            "ClassName": "TF_M4CraneBttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

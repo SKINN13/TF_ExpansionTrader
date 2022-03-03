@@ -1,0 +1,102 @@
+{
+    "m_Version": 8,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_HELMETS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_6B47Helmet",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_6B47HelmetCover_EMR",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_MICH2000Helmet",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_MICH2000Helmet_Khaku",
+                "TF_MICH2000Helmet_Black"
+            ]
+        },
+        {
+            "ClassName": "TF_MICH2000HelmetCover_Woodland",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_WeldingMask_Tagilla",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_WeldingMask",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Maska1Helmet",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Maska1Visor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Maska1SchVisor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

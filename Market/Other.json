@@ -1,0 +1,132 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_Atlas_Bipod",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Harris_Bipod",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+
+        {
+            "ClassName": "TF_M14_Adapter",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        
+        {
+            "ClassName": "TF_RifleSling_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_RifleSling_Brown",
+                "TF_RifleSling_OD"
+            ]
+        },        {
+            "ClassName": "TF_NVGoggles_AVS9",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Foil_hat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        
+        {
+            "ClassName": "TF_6B43PelvisArmor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        {
+            "ClassName": "TF_AK_6kh5Bayonet",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        
+        {
+            "ClassName": "TF_6kh5KnifeSheath",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_M4_MIADPistolGrip_FDE",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+
+        {
+            "ClassName": "TF_AK_Tactica_Tula10000Receiver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        
+        {
+            "ClassName": "TF_AK_B33Receiver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

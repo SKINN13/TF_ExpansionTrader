@@ -1,0 +1,49 @@
+{
+    "m_Version": 8,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_CamelBakBag_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_CamelBakBag_Brown",
+                "TF_CamelBakBag_EMR",
+                "TF_CamelBakBag_OD",
+                "TF_CamelBakBag_Tan"
+            ]
+        
+        },        
+        {
+            "ClassName": "TF_AVSBag_Coyote",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_AVSBag_Khaki"
+            ]
+        
+        },        {
+            "ClassName": "TF_MAPBag_Khaki",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_MAPBag_Coyote"
+            ]
+        }
+    ]
+}
